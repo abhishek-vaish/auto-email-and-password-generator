@@ -17,13 +17,7 @@ College Java Project
 * Github
 
 ## Credits
-
-[dbc2201](https://github.com/dbc2201) help in understanding the concept of Regular Expression and Github.
-
-## License
-@GNU General Public License v3.0
-
-## Screenshot
-
-
+````
+[@dbc2201] (https://github.com/dbc2201) help in understanding the concept of Regular Expression and Github.
+````
 
