@@ -17,5 +17,5 @@ College Java Project
 * Github
 
 ## Credits
-@dbc2201 help in understanding the concept of Regular Expression and Github.
+[dbc2201](https://github.com/dbc2201) help in understanding the concept of Regular Expression and Github.
 
